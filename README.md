@@ -59,7 +59,7 @@ The operational flow follows a structured state machine designed for high securi
 
 ## **Result**
 
-![][image1]
+![result](result.png)
 
 # **5\. Applications & Future Scope**
 
